@@ -12,6 +12,8 @@ This project explores bikeshare data from US cities. The program allows the user
 2. Make sure the required data file is available on your local machine.
 3. Open Git Bash or a terminal in the project folder.
 4. Run the program with:
+5. Follow the prompts in the terminal to choose a city, month, and day.
+6. The program will display statistics about travel times, popular stations, and user information.
 
 ```bash
 python bikeshare.py
