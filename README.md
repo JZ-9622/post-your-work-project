@@ -15,5 +15,12 @@ This project explores bikeshare data from US cities. The program allows the user
 5. Follow the prompts in the terminal to choose a city, month, and day.
 6. The program will display statistics about travel times, popular stations, and user information.
 
+## Files included
+
+- `bikeshare.py` - main Python script for exploring bikeshare data
+- `new_york_city.csv` - sample bikeshare data file
+- `.gitignore` - tells Git to ignore CSV files
+
+
 ```bash
 python bikeshare.py
